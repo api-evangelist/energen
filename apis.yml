@@ -1,7 +1,11 @@
 aid: energen
-url: https://raw.githubusercontent.com/api-evangelist/energen/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/energen/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.energen.com
+description: >-
+  Energen Corporation was an oil and natural gas exploration and production company
+  with operations focused on the Permian Basin in west Texas and southeast New Mexico.

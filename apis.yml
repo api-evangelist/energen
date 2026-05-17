@@ -8,7 +8,7 @@ description: >-
   the Energen brand was retired as its assets were integrated into Diamondback.
   No public developer APIs are currently published; this repository preserves
   the corporate record.
-type: Contract
+kind: contract
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg

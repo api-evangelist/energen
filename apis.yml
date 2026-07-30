@@ -9,9 +9,20 @@ description: >-
   No public developer APIs are currently published; this repository preserves
   the corporate record.
 kind: contract
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/energen.png
 tags:
   - Oil and Gas
   - Energy

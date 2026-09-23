@@ -1,7 +1,9 @@
 ---
 title: Artificial intelligence (AI) is at a very Chinese time in its life. ...
 url: https://www.instagram.com/p/DVYvauSjjBU/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Energen" press release artificial intelligence'
 position: 2
 source: serpapi-google

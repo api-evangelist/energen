@@ -58,3 +58,8 @@ maintainers:
 x-parent: diamondback-energy
 x-relationship: acquisition
 x-acquired: 2018
+x-status: acquired
+x-acquired-by: diamondback-energy
+x-acquired-date: '2018-11'
+x-status-source: "https://ir.diamondbackenergy.com/news-releases/news-release-details/diamondback-energy-inc-completes-acquisition-energen-corporation"
+x-status-evidence: "Diamondback completed its all-stock acquisition of Energen on 2018-11-29; energen.com no longer resolves (roadmap#812)"

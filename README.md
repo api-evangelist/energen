@@ -1,4 +1,4 @@
-# Energen (energen)
+# Energen
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,35 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
+
 Energen Corporation was a U.S. oil and natural gas exploration and production company headquartered in Birmingham, Alabama, with operations focused on the Permian Basin in west Texas and southeast New Mexico. In November 2018, Energen was acquired by Diamondback Energy in an all-stock transaction, and the Energen brand was retired as its assets were integrated into Diamondback. No public developer APIs are currently published; this repository preserves the corporate record.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/energen/refs/heads/main/apis.yml)
+**Areas:** Oil and Gas · Energy · Exploration · Production · Permian Basin · Fortune 1000
 
-## Scope
+## Energen on APIs.io (historical record)
 
-- **Type:** Contract
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Energen is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/energen/](https://apis.io/providers/energen/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+## API Evangelist rating
 
-- Oil and Gas, Energy, Exploration, Production, Permian Basin
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-## Timestamps
+## How this profile is made
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## APIs
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Energen: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-No public developer APIs have been documented. Energen was acquired by Diamondback Energy in 2018 and the brand has been retired.
+## Open an issue
 
-## Common Properties
-
-- [Successor: Diamondback Energy](https://www.diamondbackenergy.com/)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/energen/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
